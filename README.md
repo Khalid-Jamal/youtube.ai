@@ -10,3 +10,5 @@ Youtube Channels for AI Development  <br>
 7- Umar Jamil https://www.youtube.com/@umarjamilai/videos Complex Deep Learning  <br>
 8- Zaher Joukhadar https://www.youtube.com/@awrak/videos (Arabic)  <br>
 9- DigitalSreeni https://www.youtube.com/@DigitalSreeni/playlists  <br>
+10- Yannic Kilcher https://www.youtube.com/@YannicKilcher/streams  <br>
+11- bycloud https://www.youtube.com/@bycloudAI AI Research Updates  <br>
