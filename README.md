@@ -1,5 +1,5 @@
 # youtube.ai
-Youtube Channels for AI Development  <br>
+**Youtube Channels for AI Development**  <br>
 0- Andrej Karpathy https://www.youtube.com/@AndrejKarpathy/videos  <br>
 1- Nicholas Renotte https://www.youtube.com/@NicholasRenotte/videos  <br>
 2- All About AI https://www.youtube.com/@AllAboutAI/streams  <br>
