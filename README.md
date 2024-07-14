@@ -15,3 +15,4 @@
 <br>
 # Blogs
 0- colah's blog https://colah.github.io/
+1- Understanding Deep Learning https://udlbook.github.io/udlbook/
