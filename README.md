@@ -14,5 +14,5 @@
 11- bycloud https://www.youtube.com/@bycloudAI AI Research Updates  <br>
 <br>
 # Blogs
-0- colah's blog https://colah.github.io/
+0- colah's blog https://colah.github.io/ <br>
 1- Understanding Deep Learning https://udlbook.github.io/udlbook/
