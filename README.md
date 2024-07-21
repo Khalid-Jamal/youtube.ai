@@ -12,6 +12,7 @@
 9- DigitalSreeni https://www.youtube.com/@DigitalSreeni/playlists  <br>
 10- Yannic Kilcher https://www.youtube.com/@YannicKilcher/streams  <br>
 11- bycloud https://www.youtube.com/@bycloudAI AI Research Updates  <br>
+12- Alexander Amini https://www.youtube.com/@AAmini/videos MIT Deep Learning Lectures <br>
 <br>
 # Blogs
 0- colah's blog https://colah.github.io/ <br>
